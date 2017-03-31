@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scacchiera</string>
+    <string name="suddivisione">Suddivisione:</string>
+    <string name="pulsante">Gioca</string>
+    <string name="vittoria">Complimenti hai vinto in</string>
+    <string name="mosse">Mosse</string>
+    <string name="dinuovo">Gioca di nuovo</string>
+
+</resources>
