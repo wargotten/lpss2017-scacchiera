@@ -11,6 +11,7 @@ import android.widget.Toast;
 /**
  * Corso Laboratorio di Progettazione e Sviluppo Software
  * A.A. 2016-2017 - ing. Pasquale Cantiello
+ * Dipartimento di Ingegneria Industriale e dell'Informazione
  * Soluzione esercizio Scacchiera
  */
 public class MainActivity extends AppCompatActivity {
