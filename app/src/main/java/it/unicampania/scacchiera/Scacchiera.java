@@ -44,7 +44,7 @@ public class Scacchiera extends View {
     /**
      * Interfaccia per avvisare che il gioco è terminato
      */
-    public interface FineGiocoListener {
+    interface FineGiocoListener {
         void avvisaFineGioco(int mosse);
     }
 
@@ -86,6 +86,7 @@ public class Scacchiera extends View {
         paint = new Paint();
         casella = new Rect();
 
+        // Memorizzo il listner per utilizzarlo a fine gioco
         fineGiocoListener = avviso;
 
         this.invalidate();
