@@ -8,6 +8,11 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+/**
+ * Corso Laboratorio di Progettazione e Sviluppo Software
+ * A.A. 2016-2017 - ing. Pasquale Cantiello
+ * Soluzione esercizio Scacchiera
+ */
 public class MainActivity extends AppCompatActivity {
 
     // Widget
